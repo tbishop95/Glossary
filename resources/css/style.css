@@ -13,12 +13,15 @@ body {
   color: #626366;
 }
 
-]img {
+img {
   width: 50%; 
   height: auto;
 }
 
 table {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   background: #C83436;
   color: #FFFFFF;
   border-radius: 0.5em;
